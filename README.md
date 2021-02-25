@@ -1,3 +1,5 @@
+# This is clone of https://github.com/automuteus/galactus
+
 # galactus
 The All-Knowing Bot Token and Socket Provider Aggregator.
 
